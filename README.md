@@ -5,7 +5,8 @@
 
 要求：cuda11.8 
 
-直接在官网上面https://pytorch.org/get-started/locally/按照下面的pip语句（蓝色划线处）在命令行安装即可。
+直接在官网上面[url](https://pytorch.org/get-started/locally)按照下面的pip语句（蓝色划线处）在命令行安装即可。
+
 ![image](https://github.com/Jacky-Android/Effcient_vmamba_block/assets/55181594/30979539-158d-4e1a-9c6b-fc4391ef1651)
 
 
